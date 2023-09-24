@@ -5,7 +5,6 @@
 ##### trying
 ###### trying
 # **粗體**
-# 不對勁
 # *wryyyyyy*
 # ~~wryyyyyy~~
 
