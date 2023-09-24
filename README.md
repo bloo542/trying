@@ -42,3 +42,8 @@ print s
     1. Indented item
     2. Indented item
 4. Fourth item
+---
+| ??????      | parameter | Float factor     |
+| :---        |    :----:   |          ---: |
+| ATK      | 4000       | -10~+10%   |
+| DEF   | 7324        | -2~+20%      |
