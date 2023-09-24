@@ -4,6 +4,6 @@
 #### trying
 ##### trying
 ###### trying
-# **wryyyyyy** and
+# **wryyyyyy**
 # *wryyyyyy*
 # ~~wryyyyyy~~
