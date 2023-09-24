@@ -7,4 +7,5 @@
 # **wryyyyyy**
 # *wryyyyyy*
 # ~~wryyyyyy~~
-![NKUST](nkust.png"高科大")
+
+![NKUST](nkust.png"NKUST")
