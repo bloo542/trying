@@ -27,5 +27,11 @@ print s
 ```
 1. First item
 1. Second item
+   * First item
+   * Second item
 1. Third item
+   1. First item
+   2. Second item
 1. Fourth item
+   * First item
+   *** ~~Second item~~
