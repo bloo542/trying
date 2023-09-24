@@ -19,3 +19,8 @@
 var s = "0";
 alert(s);
 ```
+---
+```python
+s = "1"
+print s
+```
