@@ -8,4 +8,4 @@
 # *wryyyyyy*
 # ~~wryyyyyy~~
 
-![NKUST](nkust.png"NKUST")
+![NKUST](nkust.png "NKUST")
