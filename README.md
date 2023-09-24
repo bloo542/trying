@@ -12,5 +12,5 @@
 
 [![Everything Is AWESOME](https://img.youtube.com/vi/o2CD3DjPHmU/sddefault.jpg)](https://www.youtube.com/watch?v=o2CD3DjPHmU "Everything Is AWESOME")
 
-- [] to do
+- [ ] to do
 - [X] no
