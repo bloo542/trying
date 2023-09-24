@@ -16,6 +16,6 @@
 - [X] no
 
 ```javascript
-var s = "0"
-alert(s)
+var s = "0";
+alert(s);
 ```
