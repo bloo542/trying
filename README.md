@@ -14,3 +14,8 @@
 
 - [ ] to do
 - [X] no
+
+```javascript
+var s = "0"
+alert(s)
+```
