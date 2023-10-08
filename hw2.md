@@ -17,5 +17,5 @@ gantt
     使用者測試   :a11, after a9  , 25d
 ```
 # PERE圖
-
+![PERT](PERT.jpg "PERT")
 # 關鍵路徑
