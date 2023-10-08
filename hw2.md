@@ -19,3 +19,4 @@ gantt
 # PERE圖
 ![PERT](PERT.jpg "PERT")
 # 關鍵路徑
+## 1>2>4>6>9>11
